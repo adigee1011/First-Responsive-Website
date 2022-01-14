@@ -1,0 +1,42 @@
+.header {
+    background-color: aqua;
+    height: 500px;
+    width: auto;
+    grid-area: header;
+    /* padding-top: 230px; */
+
+}
+
+/* *, *:before, *:after {
+    box-sizing: border-box;
+  } */
+
+/* section {
+    background-color: black;
+    height: 50%;
+    width: 50%;
+} */
+
+/* .flex-class{
+    display:flex;
+
+} */
+
+.content {
+    background-color: black;
+    height: 500px;
+    width: auto;
+    /* display: flex; */
+    grid-area: content;
+    color: white;
+    
+}
+
+#heading {
+    font-size: 60px;
+    color:white;
+    text-align: center;
+    padding-top: 230px;
+    /* margin:auto; */
+    /* margin-bottom: 400px; */
+}
