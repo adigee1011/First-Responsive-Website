@@ -70,7 +70,23 @@ body {
 .small-box {
     height: 20px;
     width: 100px;
-    background-color: red;
+    background-color: rgba(14, 138, 240, 0.884);
+    margin: auto;
+    margin-top: 30px;
+}
+
+.small-box1 {
+    height: 20px;
+    width: 100px;
+    background-color: rgba(255, 145, 19, 0.993);
+    margin: auto;
+    margin-top: 30px;
+}
+
+.small-box2 {
+    height: 20px;
+    width: 100px;
+    background-color: rgb(0, 255, 242);
     margin: auto;
     margin-top: 30px;
 }
