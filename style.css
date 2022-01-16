@@ -23,10 +23,13 @@
     padding-top: 230px;
 } */
 
+*{
+    font-family: 'Cabin Condensed', sans-serif;
+}
 body {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr ;
+    grid-template-rows: 1fr;
     grid-template-areas: 
         "header"
         "content" 
@@ -95,8 +98,8 @@ body {
     
     body {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
     grid-template-areas: 
         "header"
         "content" 
